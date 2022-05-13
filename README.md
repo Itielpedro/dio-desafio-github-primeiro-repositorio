@@ -6,6 +6,6 @@
  
  **Repositório Snake Game:** <https://github.com/Itielpedro/Snake-Game> <br>
  **Repositório Aula Bootstrap:** <https://github.com/Itielpedro/Aula-Bootstrap> <br>
- **Repositório Netflix Clone:** <https://github.com/Itielpedro/Netflix-Clone>
- **Repositório Instagram Clone:** <https://github.com/Itielpedro/Instagram-Dio>
+ **Repositório Netflix Clone:** <https://github.com/Itielpedro/Netflix-Clone> <br>
+ **Repositório Instagram Clone:** <https://github.com/Itielpedro/Instagram-Dio> 
  
